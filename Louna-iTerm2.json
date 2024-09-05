@@ -230,6 +230,13 @@
       "Text" : "[1;2S",
       "Action" : 10
     },
+    "0x7d-0x60000-0x1e" : {
+      "Version" : 2,
+      "Apply Mode" : 0,
+      "Action" : 12,
+      "Text" : "’",
+      "Escaping" : 2
+    },
     "0xf70a-0x20000" : {
       "Text" : "[18;2~",
       "Action" : 10
@@ -249,6 +256,13 @@
     "0xf701-0x260000" : {
       "Text" : "[1;6B",
       "Action" : 10
+    },
+    "0x7b-0x60000-0x21" : {
+      "Version" : 2,
+      "Apply Mode" : 0,
+      "Action" : 12,
+      "Text" : "”",
+      "Escaping" : 2
     },
     "0xf702-0x280000" : {
       "Version" : 2,
